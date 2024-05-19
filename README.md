@@ -93,6 +93,9 @@ sudo ln -s /usr/share/phpmyadmin /var/www/html/phpmyadmin
 
 </details>
 
+
+# VERSI TANPA DOWNLOAD ⏬
+
 <details>
 <summary>Versi tanpa download</summary>
 
