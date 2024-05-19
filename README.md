@@ -92,3 +92,30 @@ sudo ln -s /usr/share/phpmyadmin /var/www/html/phpmyadmin
 ``` 
 
 </details>
+
+<details>
+<summary>Versi tanpa download</summary>
+
+## versi tanpa download
+
+### install aplication
+```bash
+bash <(curl -s https://raw.githubusercontent.com/rezapace/newlinux/main/app.sh)
+```
+
+### install golang
+```bash
+bash <(curl -s https://raw.githubusercontent.com/rezapace/newlinux/main/go.sh)
+```
+
+### install xampp
+```bash
+bash <(curl -s https://raw.githubusercontent.com/rezapace/newlinux/main/xampp.sh)
+```
+
+### install docker
+```bash
+bash <(curl -s https://raw.githubusercontent.com/rezapace/newlinux/main/docker.sh)
+```
+
+</details>
