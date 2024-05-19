@@ -3,24 +3,24 @@
 ## Description
 This script is used to automate the installation of the following software:
 
-    ```
-     git clone https://github.com/rezapace/newlinux
-    ```
+```bash
+    git clone https://github.com/rezapace/newlinux
+```
 
 ## install aplication
-    ```
-     cd newlinux && sudo chmod 775 app.sh && ./app.sh
-    ```
+```bash
+    cd newlinux && sudo chmod 775 app.sh && ./app.sh
+```
 
 ## install golang
-    ```
-     cd newlinux && sudo chmod 775 go.sh && ./go.sh
-    ```
+```bash
+    cd newlinux && sudo chmod 775 go.sh && ./go.sh
+```
 
 ## install xampp
-    ```
-     cd newlinux && sudo chmod 775 xampp.sh && ./xampp.sh
-    ```
+```bash
+    cd newlinux && sudo chmod 775 xampp.sh && ./xampp.sh
+```
 
 
 <!-- drop down -->
