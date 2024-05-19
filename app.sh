@@ -24,6 +24,10 @@ sudo flatpak install -y flathub com.visualstudio.code
 # Install Google Chrome
 sudo flatpak install -y flathub com.google.Chrome
 
+# install warp
+wget https://releases.warp.dev/stable/v0.2024.05.14.08.01.stable_04/warp-terminal_0.2024.05.14.08.01.stable.04_amd64.deb
+sudo dpkg -i warp-terminal_0.2024.05.14.08.01.stable.04_amd64.deb
+
 # Install Ulauncher
 sudo apt update && sudo apt install -y gnupg
 gpg --keyserver keyserver.ubuntu.com --recv 0xfaf1020699503176

@@ -121,4 +121,9 @@ bash <(curl -s https://raw.githubusercontent.com/rezapace/newlinux/main/xampp.sh
 bash <(curl -s https://raw.githubusercontent.com/rezapace/newlinux/main/docker.sh)
 ```
 
+### install Laravel composer
+```bash
+bash <(curl -s https://raw.githubusercontent.com/rezapace/newlinux/main/composer.sh)
+```
+
 </details>
