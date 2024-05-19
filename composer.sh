@@ -14,3 +14,6 @@ sudo chmod +x /usr/local/bin/composer
 
 # Verify the installation
 composer --version
+
+
+# source: https://green.cloud/docs/how-to-install-laravel-9-on-ubuntu-22-04/
