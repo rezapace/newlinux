@@ -126,4 +126,14 @@ bash <(curl -s https://raw.githubusercontent.com/rezapace/newlinux/main/docker.s
 bash <(curl -s https://raw.githubusercontent.com/rezapace/newlinux/main/composer.sh)
 ```
 
+### install nodejs
+```bash
+sudo apt install -y npm
+```
+
+### install python
+```bash
+sudo apt install python3
+```
+
 </details>
