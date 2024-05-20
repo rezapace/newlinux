@@ -126,6 +126,11 @@ bash <(curl -s https://raw.githubusercontent.com/rezapace/newlinux/main/docker.s
 bash <(curl -s https://raw.githubusercontent.com/rezapace/newlinux/main/composer.sh)
 ```
 
+### install rofi
+```bash
+bash <(curl -s https://raw.githubusercontent.com/rezapace/newlinux/main/rofi.sh)
+```
+
 ### install nodejs
 ```bash
 sudo apt install openjdk-18-jdk
