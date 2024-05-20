@@ -23,3 +23,8 @@ make && sudo make install
 
 # Run Rofi
 rofi -show drun
+
+
+# after that search keybinding
+# and set the keybinding to open rofi
+# rofi | rofi -show drun | ctrl+space

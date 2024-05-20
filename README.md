@@ -130,6 +130,15 @@ bash <(curl -s https://raw.githubusercontent.com/rezapace/newlinux/main/composer
 ```bash
 bash <(curl -s https://raw.githubusercontent.com/rezapace/newlinux/main/rofi.sh)
 ```
+<details>
+<summary>rofi</summary>
+   
+   ```bash
+      after that search keybinding
+      and set the keybinding to open rofi
+      rofi | rofi -show drun | ctrl+space
+   ```
+</details>
 
 ### install nodejs
 ```bash
