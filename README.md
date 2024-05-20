@@ -128,6 +128,7 @@ bash <(curl -s https://raw.githubusercontent.com/rezapace/newlinux/main/composer
 
 ### install nodejs
 ```bash
+sudo apt install openjdk-18-jdk
 sudo apt install -y npm
 ```
 

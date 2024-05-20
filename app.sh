@@ -1,16 +1,25 @@
 #!/bin/bash
 
+# Langkah 1: Memperbarui sistem
+sudo apt update && sudo apt upgrade -y
+sudo apt install curl -y
+
 # install preload
 sudo apt install preload
 
-# install Postman
-sudo snap install postman
+# install tlp
+sudo apt install tlp tlp-rdw
+sudo systemctl enable tlp
+sudo systemctl start tlp
 
 # Install Flatpak if not already installed
 sudo apt install -y flatpak
 
 # Add the Flathub repository
 sudo flatpak remote-add --if-not-exists flathub https://flathub.org/repo/flathub.flatpakrepo
+
+# install TODOLIST
+sudo flatpak install -y flathub dev.edfloreshz.Done
 
 # Install Telegram
 sudo flatpak install -y flathub org.telegram.desktop
@@ -23,6 +32,12 @@ sudo flatpak install -y flathub com.visualstudio.code
 
 # Install Google Chrome
 sudo flatpak install -y flathub com.google.Chrome
+
+# install podman
+sudo flatpak install -y flathub io.podman_desktop.PodmanDesktop
+
+# install postman
+sudo flatpak install -y flathub com.getpostman.Postman
 
 # install warp
 wget https://releases.warp.dev/stable/v0.2024.05.14.08.01.stable_04/warp-terminal_0.2024.05.14.08.01.stable.04_amd64.deb
