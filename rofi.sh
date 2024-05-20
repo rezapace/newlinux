@@ -24,6 +24,38 @@ make && sudo make install
 # Run Rofi
 rofi -show drun
 
+# menambahkan keybindings untuk rofi
+# name="rofi"
+# path="/org/mate/desktop/keybindings/custom0/"
+# binding="<Control>space"
+# command="rofi -show drun"
+
+# # Check if dconf is installed, otherwise install it
+# if ! command -v dconf &> /dev/null; then
+#     echo "dconf is not installed. Installing..."
+#     sudo apt-get update
+#     sudo apt-get install dconf-cli
+# fi
+
+# # Create the custom keybinding
+# dconf write ${path}name "'$name'"
+# dconf write ${path}binding "'$binding'"
+# dconf write ${path}command "'$command'"
+
+# # Retrieve the list of custom keybindings
+# existing_keybindings=$(dconf read /org/mate/desktop/keybindings/custom-list)
+
+# # Add the new keybinding path if it's not already in the list
+# if [[ "$existing_keybindings" != *"$path"* ]]; then
+#     if [[ "$existing_keybindings" == "[]" || "$existing_keybindings" == "" ]]; then
+#         new_keybindings="['$path']"
+#     else
+#         new_keybindings=$(echo "$existing_keybindings" | sed -e "s/]$/,'$path']/")
+#     fi
+#     dconf write /org/mate/desktop/keybindings/custom-list "$new_keybindings"
+# fi
+
+# echo "Keybinding for '$name' set to '$binding' to execute '$command'."
 
 # after that search keybinding
 # and set the keybinding to open rofi

@@ -5,7 +5,10 @@ sudo apt update && sudo apt upgrade -y
 sudo apt install curl -y
 
 # install preload
-sudo apt install preload
+sudo apt install -y preload
+
+# install rofi
+sudo apt install -y rofi
 
 # install tlp
 sudo apt install tlp tlp-rdw
