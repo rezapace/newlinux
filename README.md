@@ -45,7 +45,7 @@ sudo chmod 775 github/bash/bash.sh && ./github/bash/bash.sh
 
 ### install fish
 ```bash
-cd github/newlinux && sudo chmod 775 fish.sh && ./fish.sh
+cd ~/github && git clone https://github.com/rezapace/newlinux && cd newlinux && sudo chmod +x fish.sh && sudo ./fish.sh
 ```
 
 ### install rofi
