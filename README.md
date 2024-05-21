@@ -40,6 +40,11 @@ bash <(curl -s https://raw.githubusercontent.com/rezapace/newlinux/main/c9.sh)
 bash <(curl -s https://raw.githubusercontent.com/rezapace/newlinux/main/bashscript.sh)
 ```
 
+### install fish
+```bash
+bash <(curl -s https://raw.githubusercontent.com/rezapace/newlinux/main/fish.sh)
+```
+
 ### install rofi
 <details>
   <summary>Rofi</summary>
@@ -54,7 +59,6 @@ bash <(curl -s https://raw.githubusercontent.com/rezapace/newlinux/main/bashscri
 bash <(curl -s https://raw.githubusercontent.com/rezapace/newlinux/main/rofi.sh)
 ```
 
-
 ### install nodejs
 ```bash
 bash <(curl -s https://raw.githubusercontent.com/rezapace/newlinux/main/nodejs.sh)
@@ -64,14 +68,16 @@ bash <(curl -s https://raw.githubusercontent.com/rezapace/newlinux/main/nodejs.s
 ```bash
 bash <(curl -s https://raw.githubusercontent.com/rezapace/newlinux/main/python.sh)
 ```
-```bash
-git clone https://github.com/rezapace/newlinux
-```
+
 
 # VERSI TANPA DOWNLOAD ⏬
 
 <details>
 <summary>Versi lengkap</summary>
+
+```bash
+git clone https://github.com/rezapace/newlinux
+```
 
 ## install aplication
 ```bash
