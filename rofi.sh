@@ -5,8 +5,8 @@
 # Install dependencies
 sudo apt update && sudo apt install -y rofi
 mkdir -p ~/github && cd ~/github
-git clone https://github.com/rezapace/newlinux && cd newlinux
-mkdir -p ~/.config/rofi && cp rofi/config.rasi ~/.config/rofi/
+git clone https://github.com/rezapace/newlinux || git reset --hard
+mkdir -p ~/.config/rofi && cp ~/github/newlinux/rofi/config.rasi ~/.config/rofi/
 echo "Set keybinding for rofi: rofi -show drun | Ctrl+Space"
 
 
