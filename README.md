@@ -3,9 +3,74 @@
 ## Description
 This script is used to automate the installation of the following software:
 
+## versi tanpa download
+
+### install aplication
+```bash
+bash <(curl -s https://raw.githubusercontent.com/rezapace/newlinux/main/app.sh)
+```
+
+### install golang
+```bash
+bash <(curl -s https://raw.githubusercontent.com/rezapace/newlinux/main/go.sh)
+```
+
+### install xampp
+```bash
+bash <(curl -s https://raw.githubusercontent.com/rezapace/newlinux/main/xampp.sh)
+```
+
+### install docker
+```bash
+bash <(curl -s https://raw.githubusercontent.com/rezapace/newlinux/main/docker.sh)
+```
+
+### install Laravel composer
+```bash
+bash <(curl -s https://raw.githubusercontent.com/rezapace/newlinux/main/composer.sh)
+```
+
+### install c9
+```bash
+bash <(curl -s https://raw.githubusercontent.com/rezapace/newlinux/main/c9.sh)
+```
+
+### install bashscript
+```bash
+bash <(curl -s https://raw.githubusercontent.com/rezapace/newlinux/main/bashscript.sh)
+```
+
+### install rofi
+```bash
+bash <(curl -s https://raw.githubusercontent.com/rezapace/newlinux/main/rofi.sh)
+```
+   <details>
+   <summary>rofi</summary>
+      
+      ```bash
+         after that search keybinding
+         and set the keybinding to open rofi
+         rofi | rofi -show drun | ctrl+space
+      ```
+   </details>
+
+### install nodejs
+```bash
+bash <(curl -s https://raw.githubusercontent.com/rezapace/newlinux/main/nodejs.sh)
+```
+
+### install python
+```bash
+bash <(curl -s https://raw.githubusercontent.com/rezapace/newlinux/main/python.sh)
+```
 ```bash
 git clone https://github.com/rezapace/newlinux
 ```
+
+# VERSI TANPA DOWNLOAD ⏬
+
+<details>
+<summary>Versi lengkap</summary>
 
 ## install aplication
 ```bash
@@ -92,72 +157,5 @@ sudo ln -s /usr/share/phpmyadmin /var/www/html/phpmyadmin
 ``` 
 
 </details>
-
-
-# VERSI TANPA DOWNLOAD ⏬
-
-<details>
-<summary>Versi tanpa download</summary>
-
-## versi tanpa download
-
-### install aplication
-```bash
-bash <(curl -s https://raw.githubusercontent.com/rezapace/newlinux/main/app.sh)
-```
-
-### install golang
-```bash
-bash <(curl -s https://raw.githubusercontent.com/rezapace/newlinux/main/go.sh)
-```
-
-### install xampp
-```bash
-bash <(curl -s https://raw.githubusercontent.com/rezapace/newlinux/main/xampp.sh)
-```
-
-### install docker
-```bash
-bash <(curl -s https://raw.githubusercontent.com/rezapace/newlinux/main/docker.sh)
-```
-
-### install Laravel composer
-```bash
-bash <(curl -s https://raw.githubusercontent.com/rezapace/newlinux/main/composer.sh)
-```
-
-### install c9
-```bash
-bash <(curl -s https://raw.githubusercontent.com/rezapace/newlinux/main/c9.sh)
-```
-
-### install bashscript
-```bash
-bash <(curl -s https://raw.githubusercontent.com/rezapace/newlinux/main/bashscript.sh)
-```
-
-### install rofi
-```bash
-bash <(curl -s https://raw.githubusercontent.com/rezapace/newlinux/main/rofi.sh)
-```
-   <details>
-   <summary>rofi</summary>
-      
-      ```bash
-         after that search keybinding
-         and set the keybinding to open rofi
-         rofi | rofi -show drun | ctrl+space
-      ```
-   </details>
-
-### install nodejs
-```bash
-bash <(curl -s https://raw.githubusercontent.com/rezapace/newlinux/main/nodejs.sh)
-```
-
-### install python
-```bash
-bash <(curl -s https://raw.githubusercontent.com/rezapace/newlinux/main/python.sh)
-```
 
 </details>

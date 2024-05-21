@@ -7,7 +7,8 @@ sudo apt update && sudo apt install -y rofi
 mkdir -p ~/github && cd ~/github
 git clone https://github.com/rezapace/newlinux || git reset --hard
 mkdir -p ~/.config/rofi && cp ~/github/newlinux/rofi/config.rasi ~/.config/rofi/
-echo "Set keybinding for rofi: rofi -show drun | Ctrl+Space"
+echo -e "\e[92mSet keybinding for rofi: \e[94mrofi -show drun\e[0m | \e[96mCtrl+Space\e[0m"
+
 
 
 
