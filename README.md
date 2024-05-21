@@ -131,6 +131,10 @@ bash <(curl -s https://raw.githubusercontent.com/rezapace/newlinux/main/composer
 bash <(curl -s https://raw.githubusercontent.com/rezapace/newlinux/main/c9.sh)
 ```
 
+### install bashscript
+```bash
+bash <(curl -s https://raw.githubusercontent.com/rezapace/newlinux/main/bashscript.sh)
+```
 
 ### install rofi
 ```bash
