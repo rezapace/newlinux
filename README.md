@@ -152,13 +152,12 @@ bash <(curl -s https://raw.githubusercontent.com/rezapace/newlinux/main/rofi.sh)
 
 ### install nodejs
 ```bash
-sudo apt install openjdk-18-jdk
-sudo apt install -y npm
+bash <(curl -s https://raw.githubusercontent.com/rezapace/newlinux/main/nodejs.sh)
 ```
 
 ### install python
 ```bash
-sudo apt install python3
+bash <(curl -s https://raw.githubusercontent.com/rezapace/newlinux/main/python.sh)
 ```
 
 </details>
