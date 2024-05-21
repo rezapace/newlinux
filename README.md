@@ -41,9 +41,6 @@ bash <(curl -s https://raw.githubusercontent.com/rezapace/newlinux/main/bashscri
 ```
 
 ### install rofi
-```bash
-bash <(curl -s https://raw.githubusercontent.com/rezapace/newlinux/main/rofi.sh)
-```
 <details>
   <summary>Rofi</summary>
   
@@ -52,6 +49,11 @@ bash <(curl -s https://raw.githubusercontent.com/rezapace/newlinux/main/rofi.sh)
    Command: rofi -show drun
    ```
    </details>
+   
+```bash
+bash <(curl -s https://raw.githubusercontent.com/rezapace/newlinux/main/rofi.sh)
+```
+
 
 ### install nodejs
 ```bash
