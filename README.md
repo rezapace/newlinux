@@ -5,37 +5,39 @@ This script is used to automate the installation of the following software:
 
 ## versi tanpa download
 
-### install aplication
+### <img src="https://img.icons8.com/?size=100&id=17836&format=png&color=000000" alt="Logo aplication" width="20" height="20"/> install aplication
 ```bash
 bash <(curl -s https://raw.githubusercontent.com/rezapace/newlinux/main/app.sh)
 ```
 
-### install golang
+
+
+### <img src="https://img.icons8.com/color/256/golang.png" alt="Logo Golang" width="20" height="20"/> Instal Golang
 ```bash
 bash <(curl -s https://raw.githubusercontent.com/rezapace/newlinux/main/go.sh)
 ```
 
-### install xampp
+### <img src="https://www.apachefriends.org/images/xampp-logo-ac950edf.svg" alt="Logo xampp" width="20" height="20"/> install xampp
 ```bash
 bash <(curl -s https://raw.githubusercontent.com/rezapace/newlinux/main/xampp.sh)
 ```
 
-### install docker
+### <img src="https://img.icons8.com/?size=100&id=22813&format=png&color=000000" alt="Logo docker" width="20" height="20"/> install docker
 ```bash
 bash <(curl -s https://raw.githubusercontent.com/rezapace/newlinux/main/docker.sh)
 ```
 
-### install Laravel composer
+### <img src="https://img.icons8.com/?size=100&id=7vdHawe2VPlT&format=png&color=000000" alt="Logo Laravel" width="20" height="20"/> install Laravel composer
 ```bash
 bash <(curl -s https://raw.githubusercontent.com/rezapace/newlinux/main/composer.sh)
 ```
 
-### install c9
+### <img src="https://img.icons8.com/?size=100&id=8gWOBXY72Osj&format=png&color=000000" alt="Logo c9" width="20" height="20"/> install c9
 ```bash
 bash <(curl -s https://raw.githubusercontent.com/rezapace/newlinux/main/c9.sh)
 ```
 
-### install bashscrip
+### <img src="https://img.icons8.com/?size=100&id=8gWOBXY72Osj&format=png&color=000000" alt="Logo bashscrip" width="20" height="20"/> install bashscrip
 ```bash
 bash <(curl -s https://raw.githubusercontent.com/rezapace/newlinux/main/bashscrip.sh)
 ```
@@ -43,12 +45,12 @@ bash <(curl -s https://raw.githubusercontent.com/rezapace/newlinux/main/bashscri
 sudo chmod 775 github/bash/bash.sh && ./github/bash/bash.sh
 ```
 
-### install fish
+### <img src="https://img.icons8.com/?size=100&id=8gWOBXY72Osj&format=png&color=000000" alt="Logo fish" width="20" height="20"/> install fish
 ```bash
 cd ~/github && git clone https://github.com/rezapace/newlinux && cd newlinux && sudo chmod +x fish.sh && sudo ./fish.sh
 ```
 
-### install rofi
+### <img src="https://img.icons8.com/?size=100&id=8gWOBXY72Osj&format=png&color=000000" alt="Logo rofi" width="20" height="20"/> install rofi
 <details>
   <summary>Rofi</summary>
   
@@ -62,15 +64,21 @@ cd ~/github && git clone https://github.com/rezapace/newlinux && cd newlinux && 
 bash <(curl -s https://raw.githubusercontent.com/rezapace/newlinux/main/rofi.sh)
 ```
 
-### install nodejs
+### <img src="https://img.icons8.com/?size=100&id=hsPbhkOH4FMe&format=png&color=000000" alt="Logo nodejs" width="20" height="20"/> install nodejs
 ```bash
 bash <(curl -s https://raw.githubusercontent.com/rezapace/newlinux/main/nodejs.sh)
 ```
 
-### install python
+### <img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" alt="Logo python" width="20" height="20"/> install python
 ```bash
 bash <(curl -s https://raw.githubusercontent.com/rezapace/newlinux/main/python.sh)
 ```
+
+### <img src="https://img.icons8.com/?size=100&id=04OFrkjznvcd&format=png&color=000000" alt="Logo android" width="20" height="20"/> install android
+```bash
+bash <(curl -s https://raw.githubusercontent.com/rezapace/newlinux/main/android.sh)
+```
+
 
 
 # VERSI TANPA DOWNLOAD ⏬
