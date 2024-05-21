@@ -44,14 +44,13 @@ bash <(curl -s https://raw.githubusercontent.com/rezapace/newlinux/main/bashscri
 ```bash
 bash <(curl -s https://raw.githubusercontent.com/rezapace/newlinux/main/rofi.sh)
 ```
-   <details>
-   <summary>rofi</summary>
-      
-      ```bash
-         after that search keybinding
-         and set the keybinding to open rofi
-         rofi | rofi -show drun | ctrl+space
-      ```
+<details>
+  <summary>Rofi</summary>
+  
+   ```bash
+   Set keybinding to open Rofi: Ctrl+Space
+   Command: rofi -show drun
+   ```
    </details>
 
 ### install nodejs
