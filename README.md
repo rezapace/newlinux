@@ -39,6 +39,9 @@ bash <(curl -s https://raw.githubusercontent.com/rezapace/newlinux/main/c9.sh)
 ```bash
 bash <(curl -s https://raw.githubusercontent.com/rezapace/newlinux/main/bashscrip.sh)
 ```
+```bash
+sudo chmod 775 github/bash/bash.sh && ./github/bash/bash.sh
+```
 
 ### install fish
 ```bash
