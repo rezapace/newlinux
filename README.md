@@ -79,6 +79,14 @@ bash <(curl -s https://raw.githubusercontent.com/rezapace/newlinux/main/python.s
 bash <(curl -s https://raw.githubusercontent.com/rezapace/newlinux/main/android.sh)
 ```
 
+### <img src="https://img.icons8.com/?size=100&id=04OFrkjznvcd&format=png&color=000000" alt="Logo kvm" width="20" height="20"/> install kvm
+```bash
+cd ~/github && git clone https://github.com/rezapace/newlinux && cd newlinux && sudo chmod +x kvm.sh && sudo ./kvm.sh
+```
+```bash
+cd ~/github && git clone https://github.com/rezapace/newlinux && cd newlinux && sudo chmod +x kvmgpu.sh && sudo ./kvmgpu.sh
+```
+
 
 
 # VERSI TANPA DOWNLOAD ⏬
