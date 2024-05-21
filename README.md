@@ -40,7 +40,7 @@ bash <(curl -s https://raw.githubusercontent.com/rezapace/newlinux/main/c9.sh)
 bash <(curl -s https://raw.githubusercontent.com/rezapace/newlinux/main/bashscript.sh)
 ```
 
-### <span style="color:green">install rofi</span>
+### install rofi
 <details>
   <summary>Rofi</summary>
   
@@ -49,7 +49,7 @@ bash <(curl -s https://raw.githubusercontent.com/rezapace/newlinux/main/bashscri
    Command: rofi -show drun
    ```
    </details>
-
+   
 ```bash
 bash <(curl -s https://raw.githubusercontent.com/rezapace/newlinux/main/rofi.sh)
 ```
