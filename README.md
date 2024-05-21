@@ -35,9 +35,9 @@ bash <(curl -s https://raw.githubusercontent.com/rezapace/newlinux/main/composer
 bash <(curl -s https://raw.githubusercontent.com/rezapace/newlinux/main/c9.sh)
 ```
 
-### install bashscript
+### install bashscrip
 ```bash
-bash <(curl -s https://raw.githubusercontent.com/rezapace/newlinux/main/bashscript.sh)
+bash <(curl -s https://raw.githubusercontent.com/rezapace/newlinux/main/bashscrip.sh)
 ```
 
 ### install fish
