@@ -10,8 +10,7 @@ This script is used to automate the installation of the following software:
 bash <(curl -s https://raw.githubusercontent.com/rezapace/newlinux/main/app.sh)
 ```
 
-### <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="2" y="3" width="4" height="4" rx="1" fill="#fff"/><rect x="6" y="3" width="4" height="4" rx="1" fill="#fff"/><rect x="10" y="3" width="4" height="4" rx="1" fill="#fff"/><rect x="14" y="3" width="4" height="4" rx="1" fill="#fff"/><rect x="2" y="9" width="4" height="4" rx="1" fill="#fff"/><rect x="6" y="9" width="4" height="4" rx="1" fill="#fff"/><rect x="10" y="9" width="4" height="4" rx="1" fill="#fff"/><rect x="14" y="9" width="4" height="4" rx="1" fill="#fff"/></svg> Install Golang
-
+### install golang
 ```bash
 bash <(curl -s https://raw.githubusercontent.com/rezapace/newlinux/main/go.sh)
 ```
