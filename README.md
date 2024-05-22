@@ -79,7 +79,7 @@ bash <(curl -s https://raw.githubusercontent.com/rezapace/newlinux/main/python.s
 bash <(curl -s https://raw.githubusercontent.com/rezapace/newlinux/main/android.sh)
 ```
 
-### <img src="https://img.icons8.com/?size=100&id=moFy5XWqlc9L&format=png&color=000000" alt="Logo kvm" width="20" height="20"/> install kvm
+### <img src="https://img.icons8.com/?size=100&id=hSUoULMc0FvV&format=png&color=000000" alt="Logo kvm" width="20" height="20"/> install kvm
 ```bash
 cd ~/github && git clone https://github.com/rezapace/newlinux && cd newlinux && sudo chmod +x kvm.sh && sudo ./kvm.sh
 ```
