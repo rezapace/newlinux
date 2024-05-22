@@ -117,7 +117,7 @@ bash <(curl -s https://raw.githubusercontent.com/rezapace/newlinux/main/rofi.sh)
 </details>
 
 ```bash
-bash <(curl -s https://raw.githubusercontent.com/rezapace/newlinux/main/nodejs.sh)
+bash <(curl -s https://raw.githubusercontent.com/rezapace/newlinux/main/node.sh)
 ```
 
 ### <img src="https://img.icons8.com/?size=100&id=IrMCqzszwDxV&format=png&color=000000" alt="Logo python" width="20" height="20"/> install python
