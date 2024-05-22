@@ -36,8 +36,6 @@ sudo flatpak install -y flathub com.visualstudio.code
 # Install Google Chrome
 sudo flatpak install -y flathub com.google.Chrome
 
-# install podman
-sudo flatpak install -y flathub io.podman_desktop.PodmanDesktop
 
 # install postman
 sudo flatpak install -y flathub com.getpostman.Postman
@@ -45,6 +43,9 @@ sudo flatpak install -y flathub com.getpostman.Postman
 # install warp
 wget https://releases.warp.dev/stable/v0.2024.05.14.08.01.stable_04/warp-terminal_0.2024.05.14.08.01.stable.04_amd64.deb
 sudo dpkg -i warp-terminal_0.2024.05.14.08.01.stable.04_amd64.deb
+
+# install podman
+# sudo flatpak install -y flathub io.podman_desktop.PodmanDesktop
 
 # # Install Ulauncher
 # sudo apt update && sudo apt install -y gnupg
@@ -56,7 +57,6 @@ sudo dpkg -i warp-terminal_0.2024.05.14.08.01.stable.04_amd64.deb
 # sudo apt update && sudo apt install ulauncher
 
 # sudo add-apt-repository universe -y && sudo add-apt-repository ppa:agornostal/ulauncher -y && sudo apt update && sudo apt install ulauncher
-
 
 
 # Remove Mozilla Firefox
