@@ -3,7 +3,7 @@
 ## Description
 This script is used to automate the installation of the following software:
 
-## versi tanpa download 
+## Version Without Download ⏬
 
 ### <img src="https://img.icons8.com/?size=100&id=17836&format=png&color=000000" alt="Logo aplication" width="20" height="20"/> install aplication
 <details>
@@ -104,7 +104,7 @@ cd ~/github && git clone https://github.com/rezapace/newlinux && cd newlinux && 
    Command: rofi -show drun
    ```
    </details>
-   
+
 ```bash
 bash <(curl -s https://raw.githubusercontent.com/rezapace/newlinux/main/rofi.sh)
 ```
@@ -158,7 +158,7 @@ cd ~/github && git clone https://github.com/rezapace/newlinux && cd newlinux && 
 
 
 
-# VERSI TANPA DOWNLOAD ⏬
+# versi lengkap
 
 <details>
 <summary>Versi lengkap</summary>
