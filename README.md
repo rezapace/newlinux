@@ -103,6 +103,7 @@ cd ~/github && git clone https://github.com/rezapace/newlinux && cd newlinux && 
    Set keybinding to open Rofi: Ctrl+Space
    Command: rofi -show drun
    ```
+   </details>
    
 ```bash
 bash <(curl -s https://raw.githubusercontent.com/rezapace/newlinux/main/rofi.sh)
