@@ -39,10 +39,7 @@ bash <(curl -s https://raw.githubusercontent.com/rezapace/newlinux/main/c9.sh)
 
 ### <img src="https://img.icons8.com/?size=100&id=8gWOBXY72Osj&format=png&color=000000" alt="Logo bashscrip" width="20" height="20"/> install bashscrip
 ```bash
-bash <(curl -s https://raw.githubusercontent.com/rezapace/newlinux/main/bashscrip.sh)
-```
-```bash
-sudo chmod 775 github/bash/bash.sh && ./github/bash/bash.sh
+cd ~/github && git clone https://github.com/rezapace/newlinux && cd newlinux && sudo chmod +x bashscrip.sh && sudo ./bashscrip.sh && sudo chmod 775 github/bash/bash.sh && ./github/bash/bash.sh
 ```
 
 ### <img src="https://img.icons8.com/?size=100&id=8gWOBXY72Osj&format=png&color=000000" alt="Logo fish" width="20" height="20"/> install fish
