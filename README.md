@@ -1,9 +1,9 @@
-# AUTOMATE INSTALLER
+# <img src="https://img.icons8.com/?size=100&id=HF4xGsjDERHf&format=png&color=000000" alt="Logo aplication" width="35" height="35"/> AUTOMATE INSTALLER
 
 ## Description
 This script is used to automate the installation of the following software:
 
-## versi tanpa download
+## versi tanpa download 
 
 ### <img src="https://img.icons8.com/?size=100&id=17836&format=png&color=000000" alt="Logo aplication" width="20" height="20"/> install aplication
 ```bash
