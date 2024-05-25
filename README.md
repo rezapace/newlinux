@@ -157,7 +157,10 @@ cd ~/github && git clone https://github.com/rezapace/newlinux && cd newlinux && 
 ```
 
 
-
+### <img src="https://obsproject.com/assets/images/new_icon_small-r.png" alt="Logo fish" width="20" height="20"/> OBS Studio
+```bash
+sudo apt install obs-studio
+```
 # versi lengkap
 
 <details>
