@@ -23,6 +23,12 @@ bash <(curl -s https://raw.githubusercontent.com/rezapace/newlinux/main/app.sh)
   <summary>Golang</summary>
   
 <img src="https://img.icons8.com/?size=100&id=IrMCqzszwDxV&format=png&color=000000" alt="Logo python" width="20" height="20"/>
+
+Cek versi golang
+
+```bash
+go version
+```
 </details>
 
 ```bash
@@ -34,6 +40,14 @@ bash <(curl -s https://raw.githubusercontent.com/rezapace/newlinux/main/go.sh)
   <summary>Xampp</summary>
   
 <img src="https://img.icons8.com/?size=100&id=IrMCqzszwDxV&format=png&color=000000" alt="Logo python" width="20" height="20"/>
+
+cek xampp installed
+
+```bash
+sudo service apache2 status
+sudo service mysql status
+```
+
 </details>
 
 ```bash
@@ -45,6 +59,13 @@ bash <(curl -s https://raw.githubusercontent.com/rezapace/newlinux/main/xampp.sh
   <summary>Docker</summary>
   
 <img src="https://img.icons8.com/?size=100&id=IrMCqzszwDxV&format=png&color=000000" alt="Logo python" width="20" height="20"/>
+
+Cek docker installed
+
+```bash
+docker --version
+```
+
 </details>
 
 ```bash
@@ -56,6 +77,13 @@ bash <(curl -s https://raw.githubusercontent.com/rezapace/newlinux/main/docker.s
   <summary>Laravel</summary>
   
 <img src="https://img.icons8.com/?size=100&id=IrMCqzszwDxV&format=png&color=000000" alt="Logo python" width="20" height="20"/>
+
+cek composer installed
+
+```bash
+composer --version
+```
+
 </details>
 
 ```bash
@@ -89,6 +117,13 @@ cd ~/github && git clone https://github.com/rezapace/bash && cd bash && sudo chm
   <summary>Fish</summary>
   
 <img src="https://img.icons8.com/?size=100&id=IrMCqzszwDxV&format=png&color=000000" alt="Logo python" width="20" height="20"/>
+
+cek fish installed
+
+```bash
+fish
+```
+
 </details>
 
 ```bash
@@ -114,6 +149,13 @@ bash <(curl -s https://raw.githubusercontent.com/rezapace/newlinux/main/rofi.sh)
   <summary>Node Js</summary>
   
 <img src="https://img.icons8.com/?size=100&id=IrMCqzszwDxV&format=png&color=000000" alt="Logo python" width="20" height="20"/>
+
+Cek nodejs installed
+
+```bash
+node --version
+```
+
 </details>
 
 ```bash
@@ -125,6 +167,12 @@ bash <(curl -s https://raw.githubusercontent.com/rezapace/newlinux/main/node.sh)
   <summary>Python</summary>
   
 <img src="https://img.icons8.com/?size=100&id=IrMCqzszwDxV&format=png&color=000000" alt="Logo python" width="20" height="20"/>
+
+Cek python installed
+
+```bash
+python-3 --version
+```
 </details>
 
 ```bash
